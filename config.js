@@ -1,5 +1,5 @@
 let fs = require('fs')
-global.owner = ['628112958665', '6288215569001','628998512588', '6283175998566', '6285693602003', '6283153189868'] // Letakan nomor kamu disini
+global.owner = ['60147366955','12184506428'] // Letakan nomor kamu disini
 global.APIs = { // API Prefix
   // nama: 'https://website'
   jonaz: 'https://jonaz-api-v2.herokuapp.com',
@@ -29,13 +29,13 @@ global.APIKeys = { // APIKey nya disini
 }
 
 // Sticker WM
-global.packname = 'Haruno'
-global.author = 'Fadli'
+global.packname = 'Putbotz'
+global.author = 'Ganteng'
 
 global.wait = '「 ⏱️ 」Harap tunggu...'
 global.eror = '「❗」Server ERROR!'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
-global.watermark = '© Haruno'
+global.watermark = '© Putbotz'
 global.image = 'https://telegra.ph/file/63560c3d19d6bcce228f5.jpg'
 global.thumbfoto = 'https://telegra.ph/file/39bbded9693c9338069fd.jpg'
 

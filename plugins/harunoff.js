@@ -8,7 +8,7 @@ let handler = async(m, { conn }) => {
         let _gc2 = 'https://chat.whatsapp.com/' + await conn.groupInviteCode(gc2)
         let _gc3 = 'https://chat.whatsapp.com/' + await conn.groupInviteCode(gc3)
         let caption = `
-*Join juga group official Haruno Bot!*
+*Join juga group official Putbotz*
 Sekedar meramaikan, atau juga jika ada informasi mengenai bot.
 
 *Group 1*
